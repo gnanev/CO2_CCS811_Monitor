@@ -1,4 +1,4 @@
-# ccs811 Air quality / TVOC / CO2 sensor
+# ccs811 Air quality / TVOC / CO2 sensor for ESP32 experiment
 
 ## THIS IS NOT REAL CO2 SENSOR
 ### It measures other gasses, contained in human breath and maps it to some expected CO2 values. Not precise, readings are unstable, not recommended. Better use common IR sensor instead.
